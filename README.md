@@ -1,9 +1,9 @@
 ![Hey there!](https://pbs.twimg.com/profile_banners/1553609650385272832/1698345109/1500x500)
 
 ## Hey there! 
-### I'm working as a web developer who loves to create beautiful and interactive web applications.
+<h3>I'm working as a web developer who loves to create beautiful and interactive web applications.</h3> 
 
-I have experience in web development usuing various tools. Truly speaking, I'm always enthusiastic about learning new technologies and frameworks. I always look for new challenges and opportunities to improve my skills.
+I have experience in web development using various tools. I satarted my journy to build my career as a web developer in 2021. Truly speaking, I am very eager to work on this field and also enthusiastic about learning new technologies and frameworks. I always look for new challenges and opportunities to improve my skills.
 
 <h3 align="left">The Languages and Tools that I use:</h3>
 <p align="left"> 
