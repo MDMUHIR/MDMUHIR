@@ -20,8 +20,10 @@ I have experience in web development using various tools. I satarted my journy t
 
 
 ### If you have any questions or feedback, feel free to contact me.
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MDMUHIR) | [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/skype.svg' alt='skype' height='40'>](https://join.skype.com/invite/um45L2MIzxQP) | <a href="https://linkedin.com/in/md-muhir" target="blank"><img align="top" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-muhir" height="30" width="40" /></a> | <a href="https://twitter.com/md_muhiruddin" target="blank"><img align="top" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="md_muhiruddin" height="30" width="40" /></a> | 
-<a href="https://www.youtube.com/c/hitman's code" target="blank"><img align="top" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hitman's code" height="30" width="40" /></a> | 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MDMUHIR)  _ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/skype.svg' alt='skype' height='40'>](https://join.skype.com/invite/um45L2MIzxQP) 
+ _ <a href="https://linkedin.com/in/md-muhir" target="blank"><img align="top" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-muhir" height="30" width="40" /></a> 
+ _ <a href="https://twitter.com/md_muhiruddin" target="blank"><img align="top" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="md_muhiruddin" height="30" width="40" /></a> 
+ _ <a href="https://www.youtube.com/c/hitman's code" target="blank"><img align="top" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hitman's code" height="30" width="40" /></a>  
 
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
