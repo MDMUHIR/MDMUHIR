@@ -1,4 +1,4 @@
-![Hey there!](https://media.licdn.com/dms/image/D5616AQHoXWRUMQ0N8Q/profile-displaybackgroundimage-shrink_350_1400/0/1699439423513?e=1704931200&v=beta&t=dqBiOR2PNfom9yJt-5MIcse07SCYa5zg817ecf5JlfA)
+![Hey there!](https://media.licdn.com/dms/image/D5616AQFHtvRm44CoXA/profile-displaybackgroundimage-shrink_350_1400/0/1699444362494?e=1704931200&v=beta&t=RfdVQSX8ThvHy1VnO-JWWB1QrTZRsHRCHdNl3LDyy18)
 
 ## Hey there! 
 <h3>I'm working as a web developer who loves to create beautiful and interactive web applications.</h3> 
