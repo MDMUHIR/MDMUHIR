@@ -1,4 +1,4 @@
-![Hey there!](https://pbs.twimg.com/profile_banners/1553609650385272832/1698345109/1500x500)
+![Hey there!](https://media.licdn.com/dms/image/D5616AQHoXWRUMQ0N8Q/profile-displaybackgroundimage-shrink_350_1400/0/1699439423513?e=1704931200&v=beta&t=dqBiOR2PNfom9yJt-5MIcse07SCYa5zg817ecf5JlfA)
 
 ## Hey there! 
 <h3>I'm working as a web developer who loves to create beautiful and interactive web applications.</h3> 
