@@ -25,10 +25,8 @@ I have experience in web development using various tools. I satarted my journy t
  _ <a href="https://twitter.com/md_muhiruddin" target="blank"><img align="top" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="md_muhiruddin" height="30" width="40" /></a> 
  _ <a href="https://www.youtube.com/c/hitman's code" target="blank"><img align="top" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hitman's code" height="30" width="40" /></a>  
 
-
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MDMUHIR&show_icons=true)  
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdmuhir&show_icons=true&locale=en&layout=compact" alt="mdmuhir" /></p>
 
