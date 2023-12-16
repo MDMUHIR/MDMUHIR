@@ -30,7 +30,6 @@ I have experience in web development using various tools. I satarted my journy t
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdmuhir&show_icons=true&locale=en&layout=compact" alt="mdmuhir" /></p>
 
-![GitHub metrics](https://metrics.lecoq.io/MDMUHIR)  
 
 ###### Thank you for visiting my GitHub page! 😊
 
