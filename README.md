@@ -1,9 +1,10 @@
 ![Hey there!](https://media.licdn.com/dms/image/D5616AQFHtvRm44CoXA/profile-displaybackgroundimage-shrink_350_1400/0/1699444362494?e=1710979200&v=beta&t=k_5KwflHxSxaz_1ItM_4A3dqzKixwGHyqymz56vKhJU)
 
-## Hey there! 
-<h3>I'm working as a web developer who loves to create beautiful and interactive web applications.</h3> 
+Hello everyone!!!
 
-I have experience in web development using various tools. I satarted my journy to build my career as a web developer in 2021. Truly speaking, I am very eager to work on this field and also enthusiastic about learning new technologies and frameworks. I always look for new challenges and opportunities to improve my skills.
+Greetings, this is Md. Muhir Uddin. Let's take a bit of time of my portfolio... 
+
+I have expertise in web development using various type of tools and started my journey in 2021 to build my career as a web developer to mark up my knowledge in this regard. I am very delighted to share that as an enthusiastic, I am open to work in this field and also expand my knowledge about new technologies and frameworks. 
 
 <h3 align="left">The Languages and Tools that I use:</h3>
 <p align="left"> 
