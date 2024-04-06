@@ -2,9 +2,9 @@
 
 Hello everyone!!!
 
-Greetings, this is Md. Muhir Uddin. Let's take a bit of time of my portfolio... 
+Greetings, this is Md. Muhir Uddin. Let's take a bit of time for my profile...
 
-I have expertise in web development using various type of tools and started my journey in 2021 to build my career as a web developer to mark up my knowledge in this regard. I am very delighted to share that as an enthusiastic, I am open to work in this field and also expand my knowledge about new technologies and frameworks. 
+I have expertise in web development using various types of tools and started my journey in 2021 to build my career as a web developer to mark up my knowledge in this regard. I am delighted to share that as an enthusiastic, I am open to working in this field and expanding my understanding of new technologies and frameworks. 
 
 # 💻 Tech Stack:
 <p align="center"> 
