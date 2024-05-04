@@ -1,4 +1,4 @@
-![Hey there!](https://media.licdn.com/dms/image/D5616AQGHf4G3qv_KOw/profile-displaybackgroundimage-shrink_350_1400/0/1708885000198?e=1714608000&v=beta&t=xA931hpzFl5aCLkq1oygjN9Oi2BvK7Z_ko-FhN_vo_4)
+![Hey there!](https://media.licdn.com/dms/image/D5616AQGHf4G3qv_KOw/profile-displaybackgroundimage-shrink_350_1400/0/1708885000198?e=1720051200&v=beta&t=5cFeI-0S3ler_cBj3jtGk59KS5x3NeuCxaNzlBMHTZc)
 
 Hello everyone!!!
 
