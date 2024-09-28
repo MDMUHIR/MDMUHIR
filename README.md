@@ -27,7 +27,7 @@ I have expertise in web development using various types of tools and started my 
     <a href="https://join.skype.com/invite/um45L2MIzxQP" target="blank">
       <img
         align="top"
-        src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/skype.svg"
+        src="https://api.iconify.design/logos:skype.svg"
         alt="skype"
         width="40"
         height="30"
